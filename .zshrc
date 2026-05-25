@@ -1,0 +1,1 @@
+source $XYZSH/oh-my.sh
